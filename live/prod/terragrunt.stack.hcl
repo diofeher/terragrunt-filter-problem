@@ -1,4 +1,4 @@
-stack "dev" {
+unit "foundation" {
   source = "${get_repo_root()}/units/foundation"
-  path   = "prod"
+  path   = "prod1"
 }
